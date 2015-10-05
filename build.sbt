@@ -1,4 +1,4 @@
-name := "distributed-actors-demo"
+name := "remote-actors-demo"
 
 version := "1.0"
 
