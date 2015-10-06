@@ -25,3 +25,8 @@ settings 'akka.log-dead-letters' and 'akka.log-dead-letters-during-shutdown'.
 ```
 
 Where is wrong?
+
+Fixed
+-----
+
+http://stackoverflow.com/questions/32949490/where-is-wrong-in-my-remote-actor-demo/32951053#
